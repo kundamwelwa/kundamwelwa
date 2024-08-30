@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm KellyCode</h1>
 <h3 align="center">A passionate frontend React-Native Develover From Zambia</h3>
-<img src="[https://stock.adobe.com/search?k=programmer+cartoon](https://avatars.githubusercontent.com/u/88552144?s=400&u=89ba0c46ee20744339008a52f94787964a3a7ac6&v=4)" alt="KellyCode Jr" width="500" height="300">
+<img src="[[https://stock.adobe.com/search?k=programmer+cartoon](https://avatars.githubusercontent.com/u/88552144?s=400&u=89ba0c46ee20744339008a52f94787964a3a7ac6&v=4)](https://www.google.com/imgres?q=cartoon%20coding&imgurl=https%3A%2F%2Fimages.playground.com%2F08e480c7f70b4d598d523f709d3292ee.jpeg&imgrefurl=https%3A%2F%2Fplayground.com%2Fsearch%3Fq%3Dcoding%2Bwith%2Bcomputer%250Auniversity%2Bstudent%2Bwearing%2Bglasses%250Ahe%2Bwearing%2Bcap%250Acartoon%250Acoding%2Bword%2Bfly%2Baround%2Bboy&docid=f3mlh5NWx6aPDM&tbnid=2rrRm7NUY_XagM&vet=12ahUKEwjNu9Oh7J2IAxXSevEDHdXcBGsQM3oFCIgBEAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwjNu9Oh7J2IAxXSevEDHdXcBGsQM3oFCIgBEAA)" alt="KellyCode Jr" width="500" height="300">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundamwelwa&label=Profile%20views&color=0e75b6&style=flat" alt="kundamwelwa" /> </p>

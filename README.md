@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KellyCode</h1>
 <h3 align="center">A passionate frontend React-Native Develover From Zambia</h3>
-<img src="https://stock.adobe.com/search?k=programmer+cartoon" alt="A beautiful landscape" width="500" height="300">
+<img src="[https://stock.adobe.com/search?k=programmer+cartoon](https://avatars.githubusercontent.com/u/88552144?s=400&u=89ba0c46ee20744339008a52f94787964a3a7ac6&v=4)" alt="KellyCode Jr" width="500" height="300">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundamwelwa&label=Profile%20views&color=0e75b6&style=flat" alt="kundamwelwa" /> </p>

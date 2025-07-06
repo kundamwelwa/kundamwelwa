@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fhre1-2.fna.fbcdn.net/v/t39.30808-6/482316590_1453453762693946_6920427820245946892_n.png?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE7Mk9D7Zx5JOGOa9NGM9BvEAEYl2wNIWoQARiXbA0halSB6ostJUgyBW62tyZzBTuGm0afXjadTJJEdx9t3cmz&_nc_ohc=Ffi6IFfeBkwQ7kNvwGpxyWJ&_nc_oc=AdnV642_zYiA8KIKzSslkBbLHJjLfHtKugkh8mBMX0v-A8hCGjezCaWVp_N-A7tS9Wc&_nc_zt=23&_nc_ht=scontent.fhre1-2.fna&_nc_gid=axZYPyTpjJwlr89z5o4Bzg&oh=00_AfMnjBG5UWmaSdbCEgkDQKyycqeX80ovdh4Jg9DZQIrfcQ&oe=685DF119)](https://kellycodeportfolio.vercel.app)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH4BLg5PWPkiQ/profile-displaybackgroundimage-shrink_350_1400/B4EZVeAvLEGYAc-/0/1741039007991?e=1757548800&v=beta&t=u5KqYEz5bx-IWtrTymGgUGCrG8AnVcR-VkMSo2_3hYA)](https://kellycodeportfolio.vercel.app)
 <h1 align="center">Hi 👋, I'm KellyCode</h1>
 <h3 align="center">A passionate Frontend React-Native Developer from Zambia</h3>
 

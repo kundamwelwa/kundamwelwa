@@ -1,106 +1,113 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH4BLg5PWPkiQ/profile-displaybackgroundimage-shrink_350_1400/B4EZVeAvLEGYAc-/0/1741039007991?e=1757548800&v=beta&t=u5KqYEz5bx-IWtrTymGgUGCrG8AnVcR-VkMSo2_3hYA)](https://kellycodeportfolio.vercel.app)
-<h1 align="center">Hi 👋, I'm KellyCode</h1>
-<h3 align="center">A passionate Frontend React-Native Developer from Zambia</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/88552144?s=400&u=89ba0c46ee20744339008a52f94787964a3a7ac6&v=4" alt="KellyCode Jr" width="200" height="200" />
-</p>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #071952, #088395, #37B7C3); -webkit-background-clip: text; color: transparent;">
+    Hi 👋, I'm KellyCode
+  </span>
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kundamwelwa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kundamwelwa" alt="Profile Trophy" />
-  </a>
-</p>
-
-### About Me:
-
-- 🔭 I’m currently working on **ODMS**.
-- 🌱 I’m currently learning **Laravel, Django**.
-- 💬 Ask me about **React, HTML, SQL, Cyber Security**.
-- 📫 How to reach me: **kundamwelwa7@gmail.com**.
-- ⚡ Fun fact: **I am interesting**.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Mobile+App+Developer;Cyber+Security+%26+GRC+Specialist;Data+Analyst;Tech+Strategist;UI/UX+Designer&center=true&width=600&height=50&color=088395" />
+</h3>
 
 ---
 
-### Connect with Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kelly-kunda-mwelwa/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/kellyjr2464" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/88552144?s=400&u=89ba0c46ee20744339008a52f94787964a3a7ac6&v=4" width="200" 
+  style="border-radius: 50%; border: 4px solid #088395;" />
 </p>
 
 ---
 
-### Languages and Tools:
+## 🧭 **Motto**
+<h3 align="center"><em>“Slow Motion is better than No Motion.”</em></h3>
 
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+---
+
+## 🚀 **About Me**
+<div style="background:#EBF4F6;padding:15px;border-left:5px solid #37B7C3;border-radius:8px;">
+
+- Full Stack Web Developer  
+- Mobile Developer (React Native, Flutter)  
+- UI/UX & Web Designer  
+- Cybersecurity & Information Security Specialist  
+- GRC (Governance, Risk & Compliance) Professional  
+- Data Analyst & Visualization  
+- Tech Strategist & Marketing Consultant  
+
+Working on: **ODMS**, **AI & SaaS Security Concepts**, **Tech Startups (GIGATECH | CYGPRO)**  
+Currently learning: **Laravel**, **Django**  
+Email: **kundamwelwa7@gmail.com**
+
+</div>
+
+---
+
+## 🧩 **Developer Card**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kundamwelwa&theme=default" />
+</p>
+
+---
+
+## 🌐 **Connect With Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kelly-kunda-mwelwa/">
+    <img src="https://img.shields.io/badge/LinkedIn-088395?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <a href="https://instagram.com/kellyjr2464">
+    <img src="https://img.shields.io/badge/Instagram-071952?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40" />
+  <a href="https://kellycodeportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-37B7C3?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### GitHub Stats:
+## 🛠️ **Tech Stack**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kundamwelwa&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+### 📌 Languages, Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,flutter,nodejs,python,php,laravel,django,mysql,git,figma,docker,linux,postman,tensorflow&theme=light" />
 </p>
 
+### 🔐 Security & GRC
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kundamwelwa&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Cybersecurity-071952?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Information%20Security-088395?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/GRC-37B7C3?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
+### 📈 Data Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundamwelwa&" alt="Streak Stats" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-088395?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visualization-071952?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+---
+
+## 📊 **GitHub Analytics**
+
+### 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kundamwelwa&theme=default&background=EBF4F6&ring=088395&fire=37B7C3&currStreakLabel=071952" />
+</p>
+
+### 🧠 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundamwelwa&show_icons=true&title_color=071952&text_color=071952&icon_color=088395&bg_color=EBF4F6" />
+</p>
+
+### 🧩 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundamwelwa&layout=compact&title_color=071952&text_color=071952&bg_color=EBF4F6" />
+</p>
+
+---
+
+## 🎨 **Animated Wave Footer**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=088395&height=80&section=footer" />
 </p>

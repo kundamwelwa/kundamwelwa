@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH4BLg5PWPkiQ/profile-displaybackgroundimage-shrink_350_1400/B4EZVeAvLEGYAc-/0/1741039007991?e=1765411200&v=beta&t=WuDqfKjahTIzuTGcVPz9m058iFLYhXxRFNl5plW210A)](https://kellycodeportfolio.vercel.app)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH4BLg5PWPkiQ/profile-displaybackgroundimage-shrink_350_1400/B4EZVeAvLEGYAc-/0/1741039007991?e=1767225600&v=beta&t=unX1WsH1LnZ6P5pCdCiKzUecxUm4ZHMCVfJGPh64sNQ)](https://kellycodeportfolio.vercel.app)
 
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #071952, #088395, #37B7C3); -webkit-background-clip: text; color: transparent;">
